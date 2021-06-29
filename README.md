@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Berjin.B.V
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Mechanical Engineering
+- 👋 Hi, I’m Berjin.
+- I'm a Mechanical Engineer
+- 👀 I was interested in Data Science and i learns it through self study and some certifications.
 - 📫 You can reach me through my mailid (berjinben46@gmail.com) 
 <!---
 datasciencebeeejin/datasciencebeeejin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
